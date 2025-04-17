@@ -1,0 +1,21 @@
+nav {
+    background-color :whitesmoke; /* Dark background color */
+    font-family: Arial, sans-serif; /* Font family for the navigation items */
+    color: black;            /* White text color */
+    padding: 10px;         /* Padding around the navigation items */ 
+    
+}
+class {
+    background-color: #f0f0f0; /* Light background color for the class section */
+    padding: 20px;            /* Padding around the class section */
+    margin: 20px;             /* Margin around the class section */
+    border-radius: 5px;       /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    font-family: Arial, sans-serif; /* Font family for the class section */
+    color: black;             /* Text color for the class section */
+}
+h1 {
+    font-size: 24px;         /* Font size for the heading */
+    margin-bottom: 10px;     /*   Margin below the heading */
+    color: #333;             /* Dark text color for the heading */
+}
